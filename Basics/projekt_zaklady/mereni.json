@@ -1,0 +1,8 @@
+[
+    {"cas": "00:00", "napeti": 229, "proud": 120},
+    {"cas": "01:00", "napeti": 255, "proud": 210},
+    {"cas": "02:00", "napeti": 231, "proud": 180},
+    {"cas": "03:00", "napeti": 260, "proud": 220},
+    {"cas": "04:00", "napeti": 241, "proud": 195},
+    {"cas": "05:00", "napeti": 250, "proud": 205}
+]
